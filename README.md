@@ -1,6 +1,7 @@
 cascaron
 ========
-A Go language implementation of the Central Authentication Service protocol.
+A Go language implementation of the Central Authentication Service (CAS)
+single-sign on protocol.
 
 Resources
 ---------
